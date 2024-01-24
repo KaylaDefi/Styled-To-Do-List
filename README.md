@@ -1,4 +1,4 @@
-#To-Do List React App.
+# To-Do List React App.
 
 This project is a React app that creates a customized to-do list. I have styled this app and plan to continue improving the style and updating the code as I move forward.
 
