@@ -1,0 +1,57 @@
+body {
+  text-align: center;
+  background-color: #8326da;
+  font-size: 46px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.app {
+  background: #209cee;
+  padding: 10px;
+  height: 100vh;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  flex-direction: column; 
+}
+
+.todo-list{
+  background: #d95fcb;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 700px;
+  width: 100%;
+  box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+}
+
+.todo{
+  background: #ad3fe3;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
+  padding: 1px 5px;
+  font-size: 44px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.input{
+  width: 100%;
+  box-sizing: border-box;
+  border: 0;
+  border-radius: 4px;
+  background-color: chartreuse;
+  box-shadow: none;
+  padding: 1rem;
+  height: 2.25em;
+  font-size: 33px;
+  cursor: crosshair;
+}
