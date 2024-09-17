@@ -2,7 +2,7 @@
 
 This project is a React app that creates a customized to-do list. I have styled this app and plan to continue improving the style and updating the code as I move forward.
 
-You can create your own React App to-do list from this code. You would want to run npx create-reate-app my-app-name, and then make sure the code is in the correct files. There are further instructions about creating a React App below.
+You can create your own React App to-do list from this code. You would want to run npx create-reate-app my-app-name, and then make sure the code is in the correct files. 
 
 # Getting Started with Create React App
 
